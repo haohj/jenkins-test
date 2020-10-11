@@ -10,6 +10,6 @@ public class TestController {
     @GetMapping("/index")
     @ResponseBody
     public String index() {
-        return "hello jenkins AAA";
+        return "hello jenkins AAA11";
     }
 }
